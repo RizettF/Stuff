@@ -8,6 +8,8 @@
 #include <string>
 #include <queue>
 
+using namespace std;
+
 template <class Type>
 struct ob
 {
